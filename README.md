@@ -23,8 +23,10 @@ pip install-r requirements.txt
 Users are recquired to use their personal gemini API key . To get ur free gemini API log in to google ai studio . And generate and copy you API and paste it into your run.sh file using text editor in the part where Enter your API is given and save your changes
 
 make your file executable
+
 chmod +x run.sh
 
 users can run the apllication using what 
+
 ./run.sh
 
