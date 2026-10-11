@@ -1,5 +1,5 @@
 # Gemini-screen-bridge
-This a simple tool that analyses your current desktop screen and provide u with the clear step by step solutions for the visible problems.This removes the complications of uploading a screenshot and getting its answer through an AI chat bot . U can instantly click a hot key and get the solution for the problem in your screen rapidly. It is supported by Gemini API (Gen AI). This simple tool is also provided with further chatting system so that u can dig on your problem and get the solution rapidly and seemlesly. You can ask further questions to the answers you have got
+Are you done with using AI in linux platforms try Gemini-Screen Bridge for instant solutions for your poblems appearing on your screen answers are just a hotkey away. Gemini Screen Bridge will fill the gap between taking A screenshot and uploading to any AI platform. It uses Gemini 3.5 Flash lite for the answers. The interactive python UI will help you to dig more about the solution in one click. Users can claim their free API from google ai studio and use this tool seemlessly. No account frustration or anything. Just setup the tool and set your hotkey and dive into this tool .press the hotkey get the answer ,dig the answer and save  your time .
 
 #Installing dependencies 
 
