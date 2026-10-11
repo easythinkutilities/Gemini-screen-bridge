@@ -3,7 +3,9 @@ This a simple tool that analyses your current desktop screen and provide u with 
 #Installing dependencies 
 
 sudo apt update
+
 sudo apt install scort python3-tk
+
 python3-pip
 
 Navigate to the gemini screen bridge folder
@@ -11,9 +13,11 @@ Navigate to the gemini screen bridge folder
 cd/Gemini-screen-bridge
 
 Create virtual environment for python
+
 python3 m venv venv
 
 Activate the virtual environment
+
 Source venv/bin/activate
 
 install the requirements  
@@ -26,7 +30,7 @@ make your file executable
 
 chmod +x run.sh
 
-users can run the apllication using what 
+users can run the apllication using 
 
 ./run.sh
 
