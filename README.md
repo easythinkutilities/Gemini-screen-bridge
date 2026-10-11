@@ -1,5 +1,5 @@
 # Gemini-screen-bridge
-This a simple tool that analyses your current desktop screen and provide u with the clear step by step solutions for the visible problems. It is supported by Gemini API (Gen AI)
+This a simple tool that analyses your current desktop screen and provide u with the clear step by step solutions for the visible problems. It is supported by Gemini API (Gen AI). Also for further investigation on your screen seemless 
 
 #Installing dependencies 
 
@@ -35,3 +35,7 @@ chmod +x run.sh
 
 ./run.sh
 
+
+Now for a hassle free running create a shortcut in keyboard using the below command as the command for shortcut(change the path to actual location)
+
+/path to/gemini-sticky-bridge/run.sh 
