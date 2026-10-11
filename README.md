@@ -1,5 +1,5 @@
 # Gemini-screen-bridge
-This a simple tool that analyses your current desktop screen and provide u with the clear step by step solutions for the visible problems. It is supported by Gemini API (Gen AI). Also for further investigation on your screen seemless 
+This a simple tool that analyses your current desktop screen and provide u with the clear step by step solutions for the visible problems.This removes the complications of uploading a screenshot and getting its answer through an AI chat bot . U can instantly click a hot key and get the solution for the problem in your screen rapidly. It is supported by Gemini API (Gen AI). This simple tool is also provided with further chatting system so that u can dig on your problem and get the solution rapidly and seemlesly. You can ask further questions to the answers you have got
 
 #Installing dependencies 
 
